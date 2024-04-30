@@ -5,7 +5,7 @@ Fun with the Rivian Configurator API.
 <img src="https://github.com/sween/rivian-configurator-rotator/raw/main/assets/rivian_rotator.gif" alt="Whip to the Bucket">
 
 ### r1t
-<img src="https://github.com/sween/rivian-configurator-rotator/raw/main/assets/rivian_rotator.gif" alt="Whip to the Bucket">
+<img src="https://github.com/sween/rivian-configurator-rotator/raw/main/assets/rivian_rotator_r1t.gif" alt="Whip to the Bucket">
 
 Documentation and Errata over @ [Deez Watts - A Rivian Data Adventure](https://www.deezwatts.com)
 
